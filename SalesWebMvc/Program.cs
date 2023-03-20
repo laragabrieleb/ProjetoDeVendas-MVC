@@ -8,6 +8,8 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
+//traduções: seller = vendedor     sales recorder = recorde de vendas     department = departamento
+
 namespace SalesWebMvc
 {
     public class Program
