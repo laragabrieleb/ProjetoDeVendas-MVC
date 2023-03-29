@@ -20,6 +20,10 @@
     <None Include="Views\Departments\Delete.cshtml" />
     <None Include="Views\Departments\Details.cshtml" />
     <None Include="Views\Departments\Edit.cshtml" />
+    <None Include="Views\Departments\Index.cshtml" />
+    <None Include="wwwroot\images\open-loja.jpg" />
+    <None Include="wwwroot\images\sale-loja.jpg" />
+    <None Include="wwwroot\images\vitrine-rua.jpg" />
   </ItemGroup>
 
   <ItemGroup>
